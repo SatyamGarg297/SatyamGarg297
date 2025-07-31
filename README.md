@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Satyam Garg
 
+- 🎓 MCA Student | Aspiring MERN Stack Developer
+- 💻 Learning Full-Stack Development and Open Source
+- 🚀 Interested in Backend and Cloud Deployment
+- 🌱 Currently working on MERN projects and improving React skills
+
+### 🔗 Connect with me
+[LinkedIn](www.linkedin.com/in/satyam-garg-dev)
 <!--
 **SatyamGarg297/SatyamGarg297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
