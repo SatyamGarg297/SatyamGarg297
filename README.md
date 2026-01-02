@@ -6,7 +6,7 @@
 - 🌱 Currently working on MERN projects and improving React skills
 
 ### 🔗 Connect with me
-[LinkedIn](www.linkedin.com/in/satyam-garg-dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/satyam-garg-dev)
 <!--
 **SatyamGarg297/SatyamGarg297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
